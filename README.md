@@ -1,2 +1,3 @@
 # Hello-world-
-Learning programming is cun
+Learning programming is fun
+
